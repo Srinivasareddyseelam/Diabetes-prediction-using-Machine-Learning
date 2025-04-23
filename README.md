@@ -40,7 +40,7 @@ venv\Scripts\activate  # For Windows
 pip install -r requirements.txt
 ```
 
-### 4️3️⃣ Run the Streamlit App
+### 3️⃣ Run the Streamlit App
 ```sh
 streamlit run streamlit-app.py
 ```
