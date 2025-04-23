@@ -28,12 +28,6 @@ git clone https://github.com/Srinivasareddyseelam/Diabetes-prediction-using-Mach
 cd Diabetes-prediction-using-Machine-Learning
 ```
 
-### 2️⃣ Create a Virtual Environment (Optional but Recommended)
-```sh
-python -m venv venv  # For Windows
-source venv/bin/activate  # For macOS/Linux
-venv\Scripts\activate  # For Windows
-```
 
 ### 2️⃣ Install Dependencies
 ```sh
